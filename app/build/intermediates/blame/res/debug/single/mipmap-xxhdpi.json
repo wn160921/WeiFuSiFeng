@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\loginguide.png",
+        "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\mipmap-xxhdpi\\loginguide.png"
+    },
+    {
+        "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\spinner_small_outer.png",
+        "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\mipmap-xxhdpi\\spinner_small_outer.png"
+    },
+    {
+        "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\spinner_small_inner.png",
+        "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\mipmap-xxhdpi\\spinner_small_inner.png"
+    },
+    {
+        "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\login_btn.png",
+        "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\mipmap-xxhdpi\\login_btn.png"
+    }
+]

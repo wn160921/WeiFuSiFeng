@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">微服私访</string>
+    <string name="login_user_name_h">请输入用户名</string>
+    <string name="login_mima_h">请输入密码</string>
+</resources>
