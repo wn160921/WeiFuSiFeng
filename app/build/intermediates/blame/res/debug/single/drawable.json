@@ -76,6 +76,10 @@
         "source": "C:\\Users\\25564\\.android\\build-cache\\f88d3134e7da0d813fb7b2dc9f780db04de99f95\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
+        "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_home_style.xml",
+        "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\drawable\\menu_home_style.xml"
+    },
+    {
         "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
         "source": "C:\\Users\\25564\\.android\\build-cache\\f88d3134e7da0d813fb7b2dc9f780db04de99f95\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
@@ -104,6 +108,14 @@
         "source": "C:\\Users\\25564\\.android\\build-cache\\f88d3134e7da0d813fb7b2dc9f780db04de99f95\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
+        "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_me_style.xml",
+        "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\drawable\\menu_me_style.xml"
+    },
+    {
+        "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_train_style.xml",
+        "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\drawable\\menu_train_style.xml"
+    },
+    {
         "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
         "source": "C:\\Users\\25564\\.android\\build-cache\\f88d3134e7da0d813fb7b2dc9f780db04de99f95\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
@@ -118,6 +130,10 @@
     {
         "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
         "source": "C:\\Users\\25564\\.android\\build-cache\\f88d3134e7da0d813fb7b2dc9f780db04de99f95\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_shop_style.xml",
+        "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\drawable\\menu_shop_style.xml"
     },
     {
         "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
@@ -146,6 +162,10 @@
     {
         "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
         "source": "C:\\Users\\25564\\.android\\build-cache\\f88d3134e7da0d813fb7b2dc9f780db04de99f95\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_visit_style.xml",
+        "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\drawable\\menu_visit_style.xml"
     },
     {
         "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",

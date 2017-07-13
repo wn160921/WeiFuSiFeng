@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:gravity="center"
+    android:background="#fffede"
+    android:layout_alignParentBottom="true"
+    android:layout_width="match_parent"
+    android:layout_height="60dp">
+    <TextView
+        android:id="@+id/t_home"
+        android:text="首页"
+        android:drawableTop="@drawable/menu_home_style"
+        style="@style/bottom_style" />
+    <TextView
+        android:id="@+id/t_shop"
+        android:text="巡店"
+        style="@style/bottom_style"
+        android:drawableTop="@drawable/menu_shop_style" />
+    <TextView
+        android:id="@+id/t_visit"
+        android:text="首页"
+        android:drawableTop="@drawable/menu_visit_style"
+        style="@style/bottom_style" />
+    <TextView
+        android:id="@+id/t_train"
+        android:text="首页"
+        android:drawableTop="@drawable/menu_train_style"
+        style="@style/bottom_style" />
+    <TextView
+        android:id="@+id/t_me"
+        android:text="首页"
+        android:drawableTop="@drawable/menu_me_style"
+        style="@style/bottom_style" />
+</LinearLayout>

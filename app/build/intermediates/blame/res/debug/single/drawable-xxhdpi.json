@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\menu_shop_normal.png",
+        "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\drawable-xxhdpi\\menu_shop_normal.png"
+    },
+    {
+        "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\title_bar_save.png",
+        "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\drawable-xxhdpi\\title_bar_save.png"
+    },
+    {
+        "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\menu_visit_pressed.png",
+        "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\drawable-xxhdpi\\menu_visit_pressed.png"
+    },
+    {
+        "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\menu_train_normal.png",
+        "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\drawable-xxhdpi\\menu_train_normal.png"
+    },
+    {
+        "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\menu_me_pressed.png",
+        "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\drawable-xxhdpi\\menu_me_pressed.png"
+    },
+    {
+        "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\title_bar_add.png",
+        "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\drawable-xxhdpi\\title_bar_add.png"
+    },
+    {
+        "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\menu_train_pressed.png",
+        "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\drawable-xxhdpi\\menu_train_pressed.png"
+    },
+    {
+        "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\menu_me_normal.png",
+        "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\drawable-xxhdpi\\menu_me_normal.png"
+    },
+    {
+        "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\menu_visit_normal.png",
+        "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\drawable-xxhdpi\\menu_visit_normal.png"
+    },
+    {
+        "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\menu_home_normal.png",
+        "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\drawable-xxhdpi\\menu_home_normal.png"
+    },
+    {
+        "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\menu_home_press.png",
+        "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\drawable-xxhdpi\\menu_home_press.png"
+    },
+    {
+        "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\title_bar_histroy.png",
+        "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\drawable-xxhdpi\\title_bar_histroy.png"
+    },
+    {
+        "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\menu_shop_pressed.png",
+        "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\drawable-xxhdpi\\menu_shop_pressed.png"
+    },
+    {
+        "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\title_bar_back.png",
+        "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\drawable-xxhdpi\\title_bar_back.png"
+    }
+]

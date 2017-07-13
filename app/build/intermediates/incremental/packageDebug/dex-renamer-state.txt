@@ -1,4 +1,4 @@
-#Wed Jul 12 21:15:59 CST 2017
+#Thu Jul 13 22:18:17 CST 2017
 base.0=E\:\\WeiFuSiFeng\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6b91a314ea15aa6fe7bc54a7c966548763bd461d
 renamed.1=classes2.dex
 renamed.0=classes.dex
