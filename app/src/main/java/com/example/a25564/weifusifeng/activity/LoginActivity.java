@@ -56,6 +56,7 @@ public class LoginActivity extends AppCompatActivity {
         if(chechLogin()){
             startActivity(new Intent(this, MainActivity.class));
             finish();
+
         }else {
             bindViews();
             initStatusBarColor();
@@ -124,7 +125,7 @@ public class LoginActivity extends AppCompatActivity {
             loaging.setVisibility(View.VISIBLE);
             OkHttpManger.Param param1=new OkHttpManger.Param("userid",mUserName);
             OkHttpManger.Param param2=new OkHttpManger.Param("password",mPassWord);
-            OkHttpManger.getInstance().postNet(Constant.login, new OkHttpManger.ResultCallback() {
+            OkHttpManger.getInstance().postNet(Constant.Login, new OkHttpManger.ResultCallback() {
                 @Override
                 public void onFailed(Request request, IOException e) {
                     loaging.setVisibility(View.GONE);

@@ -36,6 +36,10 @@
         "source": "C:\\Users\\25564\\.android\\build-cache\\f88d3134e7da0d813fb7b2dc9f780db04de99f95\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
+        "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_shop.xml",
+        "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\layout\\fragment_shop.xml"
+    },
+    {
         "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
@@ -104,6 +108,10 @@
         "source": "C:\\Users\\25564\\.android\\build-cache\\f88d3134e7da0d813fb7b2dc9f780db04de99f95\\output\\res\\layout\\abc_screen_content_include.xml"
     },
     {
+        "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_visit.xml",
+        "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\layout\\fragment_visit.xml"
+    },
+    {
         "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
         "source": "C:\\Users\\25564\\.android\\build-cache\\f88d3134e7da0d813fb7b2dc9f780db04de99f95\\output\\res\\layout\\abc_action_mode_bar.xml"
     },
@@ -148,6 +156,10 @@
         "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\layout\\title_bottom_layout.xml"
     },
     {
+        "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_train.xml",
+        "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\layout\\fragment_train.xml"
+    },
+    {
         "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
         "source": "C:\\Users\\25564\\.android\\build-cache\\f88d3134e7da0d813fb7b2dc9f780db04de99f95\\output\\res\\layout\\notification_template_part_chronometer.xml"
     },
@@ -168,12 +180,20 @@
         "source": "C:\\Users\\25564\\.android\\build-cache\\b8e296fbe4f6524395902e4e161dee12820f8cf5\\output\\res\\layout\\design_bottom_navigation_item.xml"
     },
     {
+        "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
         "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
         "source": "C:\\Users\\25564\\.android\\build-cache\\f88d3134e7da0d813fb7b2dc9f780db04de99f95\\output\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
         "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
         "source": "C:\\Users\\25564\\.android\\build-cache\\b8e296fbe4f6524395902e4e161dee12820f8cf5\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_me.xml",
+        "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\layout\\fragment_me.xml"
     },
     {
         "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",

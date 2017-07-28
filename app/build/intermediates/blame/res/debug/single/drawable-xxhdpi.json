@@ -8,6 +8,10 @@
         "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\drawable-xxhdpi\\title_bar_save.png"
     },
     {
+        "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\sns_v2_bookstore_scroll_point_nor.png",
+        "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\drawable-xxhdpi\\sns_v2_bookstore_scroll_point_nor.png"
+    },
+    {
         "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\menu_visit_pressed.png",
         "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\drawable-xxhdpi\\menu_visit_pressed.png"
     },
@@ -42,6 +46,10 @@
     {
         "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\menu_home_press.png",
         "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\drawable-xxhdpi\\menu_home_press.png"
+    },
+    {
+        "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\sns_v2_bookstore_scroll_point_pre.png",
+        "source": "E:\\WeiFuSiFeng\\app\\src\\main\\res\\drawable-xxhdpi\\sns_v2_bookstore_scroll_point_pre.png"
     },
     {
         "merged": "E:\\WeiFuSiFeng\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\title_bar_histroy.png",

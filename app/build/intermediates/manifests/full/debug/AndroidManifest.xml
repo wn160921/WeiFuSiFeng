@@ -32,7 +32,8 @@
         </activity>
         <activity
             android:name="com.example.a25564.weifusifeng.MainActivity"
-            android:theme="@style/Theme.AppCompat.NoActionBar" />
+            android:theme="@style/AppTheme" />
+        <activity android:name="com.example.a25564.weifusifeng.activity.BaseFragmentActivity" />
     </application>
 
 </manifest>

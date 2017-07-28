@@ -24,7 +24,7 @@ public class OkHttpManger {
     private OkHttpClient okHttpClient;
     private Handler okhandler;
 
-    private OkHttpManger(){     //单例模式，不让new
+    public OkHttpManger(){     //单例模式，不让new
         okhandler=new Handler(Looper.getMainLooper());
         OkHttpClient.Builder builder = new OkHttpClient.Builder()
                 .connectTimeout(15, TimeUnit.SECONDS)
@@ -101,5 +101,13 @@ public class OkHttpManger {
     public static abstract class ResultCallback{
         public abstract void onFailed(Request request,IOException e);
         public abstract void onSuccess(String s);
+    }
+
+    public void getNet(String url, ResultCallback resultCallback) {
+        Request request = new Request.Builder()
+                .url(url)
+                .method("GET", null)//此设置默认为get,可以不设置
+                .build();
+        dealNet(request, resultCallback);
     }
 }
